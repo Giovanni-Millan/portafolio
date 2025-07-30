@@ -1,0 +1,43 @@
+
+.section-nav{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.foto{
+    height: 350px;
+}
+
+.seccion-1{
+    height: 95vh;
+}
+    
+.seccion-2{
+    margin-left:15%;
+    margin-right:15%;
+}
+
+.seccion-3{
+    height: 90vh;
+
+}
+
+.cajas{
+    border-radius: 30%;
+    height: 7rem;
+    width: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.imagen{
+    height: 60px;
+}
+
+.seccion-4{
+    height: 93vh;
+}
+
+
