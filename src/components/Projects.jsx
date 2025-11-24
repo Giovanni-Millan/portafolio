@@ -24,7 +24,7 @@ export default function Projects() {
       name: "Rediseño de Página Web para el 'Instituto Tecnologico Bridge'",
       description:
         "Diseño renovado con navegación intuitiva, secciones claras e identidad visual profesional.",
-      link: "https://github.com/Giovanni-Millan/It-Bridge",
+      link: "https://instituto-tecnologico-bridge.netlify.app/",
     },
   ];
 
